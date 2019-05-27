@@ -15,7 +15,7 @@ schema_view = get_schema_view(
       title="MIYU API",
       default_version='v1',
       description=
-      """MIYU 졸업 프로젝트 API 문서 `GitHub repository` : <a href="https://github.com/kwonsye">https://github.com/kwonsye</a>
+      """MIYU 졸업 프로젝트 API 문서 `GitHub repository` : <a href="https://github.com/kwonsye/MIYU_APIServer">https://github.com/kwonsye/MIYU_APIServer</a>
    `swagger-ui`로 보기 : <a href="/swagger">/swagger</a>  
    `ReDoc`로 보기 : <a href="/redoc">/redoc</a>  
    """

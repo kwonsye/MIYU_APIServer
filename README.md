@@ -1,4 +1,5 @@
 ## MIYU API
+- MIYU Project's Server side
 - framework : `Django 2.2.1`
 - language : `python 3.6.7`
 - IDE : Pycharm community ver.
@@ -20,6 +21,6 @@
 
 ### Deploy
 
-- AWS EC2 linux t2.micro instance
+- AWS EC2 Linux t2.micro instance
 - Server : `Nginx` 
 - WSGI : `uWSGI`
